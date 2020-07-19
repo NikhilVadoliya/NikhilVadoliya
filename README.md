@@ -1,16 +1,37 @@
-### Hi there 👋
 
-<!--
-**NikhilVadoliya/NikhilVadoliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ **Hello,
+ I AM NIKHIL VADOLIYA**<br/>
 
-Here are some ideas to get you started:
+  SENIOR FLUTTER AND ANDROID DEVELOPER. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Focused professional having excellent technical and communication skills.Proficient at designing, writing code in various languages, feature development and implementation. Specialize in thinking outside the box to find unique solutions to difficult engineering problems.
+
+
+**What skill i have**
+ 
+ - Dart
+ - Flutter
+ - Bloc
+ - Java
+ - Kotlin
+ - MVVM
+ - Dagger
+ - RxJava
+ - Code Magic
+ - Unit Testing 
+
+<br/>
+<a href="https://in.linkedin.com/in/nikhil-vadoliya-8882459b">
+  <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/nikhil_vadoliya/">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://stackoverflow.com/users/9512756/nikhil-vadoliya">
+  <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
+</a>
+<a href="mailto:vadoliya.nikhil99@gmail.com">
+  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+
+
