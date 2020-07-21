@@ -1,8 +1,7 @@
 
-<H1>Hello,
- I AM NIKHIL VADOLIYA</H1><br/>
-
- <H5> SENIOR FLUTTER AND ANDROID DEVELOPER. </H5>
+**Hello,
+ I AM NIKHIL VADOLIYA**<br/>
+SENIOR FLUTTER AND ANDROID DEVELOPER.
 
 Focused professional having excellent technical and communication skills.Proficient at designing, writing code in various languages, feature development and implementation. Specialize in thinking outside the box to find unique solutions to difficult engineering problems.
 
