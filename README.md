@@ -1,8 +1,8 @@
 
- **Hello,
- I AM NIKHIL VADOLIYA**<br/>
+<H1>Hello,
+ I AM NIKHIL VADOLIYA</H1><br/>
 
-  SENIOR FLUTTER AND ANDROID DEVELOPER. 
+ <H5> SENIOR FLUTTER AND ANDROID DEVELOPER. </H5>
 
 Focused professional having excellent technical and communication skills.Proficient at designing, writing code in various languages, feature development and implementation. Specialize in thinking outside the box to find unique solutions to difficult engineering problems.
 
@@ -28,6 +28,9 @@ Focused professional having excellent technical and communication skills.Profici
 </a>
 <a href="https://www.instagram.com/nikhil_vadoliya/">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.facebook.com/nikhil.vadoliya.9">
+  <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.2.0/icons/facebook.svg" />
 </a>
 <a href="https://stackoverflow.com/users/9512756/nikhil-vadoliya">
   <img align="left" alt=" Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
