@@ -1,5 +1,5 @@
 
-![Nikhil profile](/profile.jpg)
+![Nikhil profile](profile.jpg)
 
 
 
