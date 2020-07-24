@@ -1,12 +1,11 @@
 
-**Hello,
- I AM NIKHIL VADOLIYA**<br/>
-SENIOR FLUTTER AND ANDROID DEVELOPER.   
-![Profile views](https://gpvc.arturio.dev/NikhilVadoliya)
+![GitHub Logo](/profile.jpg)
+
 
 
 Focused professional having excellent technical and communication skills.Proficient at designing, writing code in various languages, feature development and implementation. Specialize in thinking outside the box to find unique solutions to difficult engineering problems.
 
+![Profile views](https://gpvc.arturio.dev/NikhilVadoliya)
 
 **What skill i have**
  
