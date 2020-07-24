@@ -1,5 +1,5 @@
 
-![GitHub Logo](/profile.jpg)
+![Nikhil profile](/profile.jpg)
 
 
 
