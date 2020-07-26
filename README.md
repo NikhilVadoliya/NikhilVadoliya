@@ -19,6 +19,14 @@ Focused professional having excellent technical and communication skills.Profici
  - RxJava
  - Code Magic
  - Unit Testing 
+ 
+ **Character and Specialties**
+ - Fast Learner
+ - Android and iOS development in Flutter/Dart
+ - Plugin and Package development for Flutter and Dart.
+ - Android development in Kotlin & Java
+ - Practisoner in JSON(Hive NoSQL, SQLs )
+ - Tech savy and (mostly) up-to-date with newer gadgets and technology
 
 
 <img src="https://github-readme-stats.vercel.app/api?username=NikhilVadoliya&&show_icons=true&title_color=212121&icon_color=757575&text_color=424242&bg_color=ffffff"/>
