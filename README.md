@@ -1,5 +1,5 @@
 
-![Nikhil profile](profile.jpg)
+![Nikhil profile](https://raw.githubusercontent.com/NikhilVadoliya/NikhilVadoliya/master/profile.jpg)
 
 
 
