@@ -29,7 +29,9 @@ Focused professional having excellent technical and communication skills.Profici
  - Tech savy and (mostly) up-to-date with newer gadgets and technology
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=NikhilVadoliya&&show_icons=true&title_color=212121&icon_color=757575&text_color=424242&bg_color=ffffff"/>
+<img align="center" src ="https://github-readme-stats.vercel.app/api?username=NikhilVadoliya&&show_icons=true&title_color=212121&icon_color=757575&text_color=424242&bg_color=ffffff"/>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NikhilVadoliya&theme=light"/>
 <br/>
 <a href="https://in.linkedin.com/in/nikhil-vadoliya-8882459b">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
