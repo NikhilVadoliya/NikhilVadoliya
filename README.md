@@ -5,7 +5,7 @@
 
 Focused professional having excellent technical and communication skills.Proficient at designing, writing code in various languages, feature development and implementation. Specialize in thinking outside the box to find unique solutions to difficult engineering problems.
 
-![Profile views](https://gpvc.arturio.dev/NikhilVadoliya)
+// ![Profile views](https://gpvc.arturio.dev/NikhilVadoliya)
 
 Currently working on AI base Flutter Mobile application as having expertise on Dart + Bloc Architecture.
 
