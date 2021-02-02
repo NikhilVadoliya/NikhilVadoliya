@@ -7,11 +7,15 @@ Focused professional having excellent technical and communication skills.Profici
 
 ![Profile views](https://gpvc.arturio.dev/NikhilVadoliya)
 
+Currently working on AI base Flutter Mobile application as having expertise on Dart + Bloc Architecture.
+
+
 **What skill i have**
  
  - Dart
  - Flutter
  - Bloc
+ - GetX
  - Java
  - Kotlin
  - MVVM
